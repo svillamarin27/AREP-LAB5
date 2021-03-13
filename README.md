@@ -101,7 +101,7 @@ Ahora, se ejecuta el SSH desde el computador con el cual se desea realizar la co
         
 Como se puede observar, el contenedor ha sido desplegado satisfactoriamente desde la máquina virtual montada en AWS.
 
-![image](https://user-images.githubusercontent.com/37603257/111010768-743ca880-8365-11eb-94f9-d004aa8b1334.png)
+![image](https://user-images.githubusercontent.com/37603257/111011200-a26eb800-8366-11eb-810b-a67c949c0f37.png)
  
  # Autor
  Sebastián Villamarín Rodríguez
