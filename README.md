@@ -97,6 +97,7 @@ Para realizar la respectiva conexión con la instancia, se realiza clic en el bo
 ![image](https://user-images.githubusercontent.com/37603257/111010534-cfba6680-8364-11eb-9cf4-f7bfb741ce18.png)
 
 Ahora, se ejecuta el SSH desde el computador con el cual se desea realizar la conexión con la instancia, y se ejecuta el siguiente comando.
+
         ssh -i "awsthird.pem" ec2-user@ec2-54-163-34-86.compute-1.amazonaws.com
         
 Como se puede observar, el contenedor ha sido desplegado satisfactoriamente desde la máquina virtual montada en AWS.
