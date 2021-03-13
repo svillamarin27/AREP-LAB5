@@ -52,7 +52,7 @@ Ahora, para verificar que en la aplicación Docker se hayan desplegado con éxit
 
 Para comprobar que la página web ha sido desplegada con éxito, se ingresa en el navegador la siguiente URL: localhost:34999/Datos . Luego de ingresar la URL en el navegador, se obtiene el siguiente resultado.
 
-![image](https://user-images.githubusercontent.com/37603257/111009433-9df3d080-8361-11eb-8a88-b41fdd9b153f.png)
+![image](https://user-images.githubusercontent.com/37603257/111411319-52fef380-86a8-11eb-8427-f502182e5947.png)
 
 # AWS
 Antes de iniciar a utilizar AWS, primero se debe subir cada uno de los contenedores creados a un repositorio. Para realizar esto, primero se creó el primer repositorio en Docker Hub llamado firstsparkjavarepo, como se ve a continuación.
@@ -101,7 +101,7 @@ Ahora, se ejecuta el SSH desde el computador con el cual se desea realizar la co
         
 Como se puede observar, el contenedor ha sido desplegado satisfactoriamente desde la máquina virtual montada en AWS.
 
-![image](https://user-images.githubusercontent.com/37603257/111011200-a26eb800-8366-11eb-810b-a67c949c0f37.png)
+![image](https://user-images.githubusercontent.com/37603257/111411509-b12bd680-86a8-11eb-9c45-5fc895e8101f.png)
  
  # Autor
  Sebastián Villamarín Rodríguez
